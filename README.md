@@ -5,7 +5,7 @@
 
 - 👨‍💻 Owner and CEO of [Galaxy Host](https://galaxyhost.site/)
 
-- 🖥️ Developer at [CodeForge (Discord Ver 1.2)](https://discordapp.com/users/1119229177137205309)
+- 🖥️ Developer at [CodeForge (Discord Ver 1.2)](https://discord.gg/2qyEe7FP)
 
 - 📫 How to reach me **salaheddinhjouji@gmail.com**
 
