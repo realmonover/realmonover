@@ -5,14 +5,14 @@
 
 - 👨‍💻 Owner and CEO of [Galaxy Host](https://galaxyhost.site/)
 
-- 🖥️ Developer at [CodeForge (Discord Ver 1.2)](https://discord.gg/9QU9ad8h)
+- 🖥️ Developer at [CodeForge (Discord Ver 1.2)](https://discordapp.com/users/1119229177137205309)
 
 - 📫 How to reach me **salaheddinhjouji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sala7xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sala7xd" height="30" width="40" /></a>
-<a href="https://discord.gg/9QU9ad8h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9QU9ad8h" height="30" width="40" /></a>
+<a href="https://instagram.com/realmonover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realmonover" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/1119229177137205309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9QU9ad8h" height="30" width="40" /></a>
 </p>
 <p>
 <img src="https://cdn.discordapp.com/attachments/1119257753987334205/1171124031076958279/1_eqwKZcLyK6NHAqt0E6_Xqg.gif?ex=655b893f&is=6549143f&hm=67c72eae5e59127585069a9849bf6750a4631d7960256db66b87e42182441e28&" alt="" width="450" height="250">
